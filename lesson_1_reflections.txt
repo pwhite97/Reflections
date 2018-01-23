@@ -1,0 +1,7 @@
+I was very pleased by the tutorial because I never knew the command line could be used to find differences in files so quickly. This will be very useful in the future.
+Having the entire history of a file's history makes you more efficient by being able to learn where you went wrong before, and by being able to reuse pieces of code.
+The adavantage of choosing to commit includes being able to commit at logical points, and to keep commit history from being cluttered. However, sometimes bad  judgment could be exercised.
+Google Docs usually don't contain content that needs to san more than one document.
+Git log allows you to see commit history and git diff allows you to see the difference between two files.
+Even if the changes I make break something, I can discard it.
+There are so many things to use git for!
