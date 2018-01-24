@@ -3,3 +3,4 @@ The staging area is the intermediate step between the working directory and the 
 The staging area makes sure that you transfer one logical change at a time from th directory to the repository.
 Branches are great for making a version of the master that caters to a different group without disturbing the master.
 Diagrams make the branching process easy to see and follow.
+Merging two branches makes one file.
